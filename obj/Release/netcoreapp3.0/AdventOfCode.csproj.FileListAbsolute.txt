@@ -1,0 +1,8 @@
+C:\Users\Fayt\source\repos\AdventOfCode\AdventOfCode\bin\Release\netcoreapp3.0\AdventOfCode.deps.json
+C:\Users\Fayt\source\repos\AdventOfCode\AdventOfCode\bin\Release\netcoreapp3.0\AdventOfCode.dll
+C:\Users\Fayt\source\repos\AdventOfCode\AdventOfCode\bin\Release\netcoreapp3.0\AdventOfCode.pdb
+C:\Users\Fayt\source\repos\AdventOfCode\AdventOfCode\obj\Release\netcoreapp3.0\AdventOfCode.csprojAssemblyReference.cache
+C:\Users\Fayt\source\repos\AdventOfCode\AdventOfCode\obj\Release\netcoreapp3.0\AdventOfCode.AssemblyInfoInputs.cache
+C:\Users\Fayt\source\repos\AdventOfCode\AdventOfCode\obj\Release\netcoreapp3.0\AdventOfCode.AssemblyInfo.cs
+C:\Users\Fayt\source\repos\AdventOfCode\AdventOfCode\obj\Release\netcoreapp3.0\AdventOfCode.dll
+C:\Users\Fayt\source\repos\AdventOfCode\AdventOfCode\obj\Release\netcoreapp3.0\AdventOfCode.pdb
